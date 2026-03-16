@@ -72,7 +72,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/arshadshaikk/agentic-workflow-crewai
+git clone https://github.com/arshadsm/agentic-workflow-crewai
 cd agentic-workflow-crewai
 
 pip install -r requirements.txt
@@ -155,4 +155,4 @@ agentic-workflow-crewai/
 ## 👤 Author
 
 **Arshad Shaik** — Senior Python / GenAI Developer  
-📧 arshadshaikk01@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/arshadshaikk)
+📧 arshadshaikk01@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/arshads01)
